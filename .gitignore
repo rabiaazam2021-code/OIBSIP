@@ -5,3 +5,5 @@ Python-Task2-BMICalculator/bmi_data.db
 
 Python-Task4-WeatherApp/config.json
 .vscode/
+Python-Task5-ChatApp/chat_data.db
+__pycache__/
